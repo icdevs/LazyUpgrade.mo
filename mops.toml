@@ -1,0 +1,8 @@
+[package]
+name = "LazyUpgrade"
+version = "0.0.1"
+description = "The reference implementation for the Lazy Upgrade Pattern."
+repository = "https://github.com/ICDevs/LazyUpgrade.mo"
+
+[dependencies]
+base = "0.8.7"
